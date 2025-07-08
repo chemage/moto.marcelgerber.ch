@@ -3,7 +3,7 @@ name: 'Les affaires moto de Marcel'
 description: 'Marcel vend ses affaires de moto.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: '/template-pintereso-bootstrap-jekyll'
+baseurl: '/test'
 avatar: 'assets/images/sal.jpg'
 email: 'gerber.marcel@gmail.com'
 
