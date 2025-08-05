@@ -9,9 +9,21 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: home
 
 collections:
   gear:
     output: true
     permalink: /gear/:path/
+
+exclude:
+  - gems/
 

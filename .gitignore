@@ -1,0 +1,19 @@
+# Ignore gem dependencies
+gems/
+.bundle/
+vendor/
+Gemfile.lock
+
+# Ignore Jekyll cache and build files
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temp files
+*.log
+*.tmp
+
