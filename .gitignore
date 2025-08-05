@@ -6,8 +6,8 @@ Gemfile.lock
 
 # Ignore Jekyll cache and build files
 _site/
+.jekyll-metadata
 .jekyll-cache/
-.jekyll-metadata/
 .sass-cache/
 
 # Ignore OS-specific files
