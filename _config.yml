@@ -1,0 +1,17 @@
+title: "Les Affaires à Marcel"
+description: "Mes affaires de moto à vendre"
+url: "https://moto.marcelgerber.ch"  # or your custom domain
+baseurl: ""  # leave blank if using a custom domain
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+collections:
+  gear:
+    output: true
+    permalink: /gear/:path/
+
