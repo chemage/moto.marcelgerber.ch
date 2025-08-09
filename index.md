@@ -7,6 +7,8 @@ author_profile: true
 
 Bienvenue sur ma page d'affaires à vendre.
 
+{% include dynamic_menu.html %}
+
 ## Mes équipements moto à vendre
 
 <div class="cards">

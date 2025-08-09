@@ -17,9 +17,12 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: home
+      layout: single
 
 collections:
+  pages:
+    output: true
+
   gear:
     output: true
     permalink: /gear/:path/
