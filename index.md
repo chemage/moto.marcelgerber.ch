@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Homepage"
+title: "Accueil"
 permalink: /
 sidebar:
   nav: "sidebar"
