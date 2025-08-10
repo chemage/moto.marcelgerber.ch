@@ -3,11 +3,11 @@ title: "Sachoche IXS"
 layout: single
 collection: gear
 price: CHF 30.-
-size: 15 litres
+size: ~5 litres
 image: /assets/images/gear/sacoche-ixs-01.jpg
 ---
 
-Veste multi-saisons avec couche thermique pour l'hiver.
+Sac réservoir aimanté pour les voyages.
 
 Taille: {{ page.size }}
 
