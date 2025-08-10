@@ -16,8 +16,8 @@ Bienvenue sur ma page d'affaires à vendre.
 		<h3 class="card-title">{{ item.title }}</h3>
     </a>
 	<div class="card-content">
-	<p class="card-size">{{ item.size }}</p>
-	<p class="card-price">{{ item.price }}</p>
+	<div class="card-size">Taille: {{ item.size }}</div>
+	<div class="card-price"><b>{{ item.price }}</b></div>
 	</div>
 	<a href="{{ item.url }}">
     	<img class="card-image" src="{{ item.image }}" alt="{{ item.title }}">
