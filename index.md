@@ -2,7 +2,10 @@
 layout: home
 title: "Homepage"
 permalink: /
-author_profile: true
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Bienvenue sur ma page d'affaires à vendre.

@@ -1,10 +1,14 @@
 ---
 title: "Sachoche IXS"
-layout: single
 collection: gear
 price: CHF 30.-
 size: ~5 litres
 image: /assets/images/gear/sacoche-ixs-01.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Sac réservoir aimanté pour les voyages.

@@ -1,10 +1,14 @@
 ---
 title: "Cache-cou Stormboy (Polo Moto)"
-layout: single
 collection: gear
 price: CHF 15.-
 size: L
 image: /assets/images/gear/cachecou-stormboy-05.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Cache-cou pour l'hiver.

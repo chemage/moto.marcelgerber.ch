@@ -1,0 +1,14 @@
+main:
+  - title: "Accueil"
+    url: /
+  - title: "Acheter"
+    url: /acheter/
+  - title: "Contact"
+    url: /contact/
+
+sidebar:
+  - title: "Acheter"
+    url: /acheter/
+  - title: "Contact"
+    url: /contact/
+

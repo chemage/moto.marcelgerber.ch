@@ -1,10 +1,14 @@
 ---
 title: "Combinaison de pluie MTECH"
-layout: single
 collection: gear
 price: CHF 20.-
 size: L
 image: /assets/images/gear/combinaisonpluie-mtech-03.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Veste multi-saisons avec couche thermique pour l'hiver.

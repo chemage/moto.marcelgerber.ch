@@ -2,6 +2,7 @@ title: "Les Affaires à Marcel"
 description: "Mes affaires de moto à vendre"
 url: "https://moto.marcelgerber.ch"  # or your custom domain
 baseurl: ""  # leave blank if using a custom domain
+navigation: main
 
 remote_theme: "mmistakes/minimal-mistakes"
 

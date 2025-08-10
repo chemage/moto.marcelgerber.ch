@@ -1,10 +1,14 @@
 ---
 title: "Sachoche qbag"
-layout: single
 collection: gear
 price: CHF 25.-
 size: ~2 litres
 image: /assets/images/gear/sacoche-qbag-01.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Petit sac réservoir aimanté pratique pour les balades d'une journée.

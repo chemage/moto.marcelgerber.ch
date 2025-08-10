@@ -1,10 +1,14 @@
 ---
 title: "Gants entre-saisons / hiver doux"
-layout: single
 collection: gear
 price: CHF 10.-
 size: 9
 image: /assets/images/gear/gants-hiver-03.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Gants pour l'entre-saisons et les hivers doux.

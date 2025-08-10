@@ -1,10 +1,14 @@
 ---
 title: "Veste Ixon Cross Air Black"
-layout: single
 collection: gear
 price: CHF 40.-
 size: L (EUR 50)
 image: /assets/images/gear/veste-ixon-11.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Veste multi-saisons avec mini protection dorsale, protections coudes et

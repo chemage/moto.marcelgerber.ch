@@ -1,10 +1,14 @@
 ---
 title: "Jeans Spirit Motors"
-layout: single
 collection: gear
 price: CHF 30.-
 size: M (48-50)
 image: /assets/images/gear/pantalons-jeans-01.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Jeans épai avec protections genoux et fesses.

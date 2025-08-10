@@ -1,10 +1,14 @@
 ---
 title: "Pantalons Pharao"
-layout: single
 collection: gear
 price: CHF 40.-
 size: M (48-50)
 image: /assets/images/gear/pantalons-pharao-01.jpg
+layout: single
+sidebar:
+  nav: "sidebar"
+  sticky: true
+author_profile: false
 ---
 
 Pantalons multi-saisons avec protections genoux et fesses et couche thermique pour l'hiver.
