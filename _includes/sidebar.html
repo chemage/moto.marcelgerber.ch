@@ -18,7 +18,7 @@
     {% assign gear_items = site.gear | sort: 'nav_order' %}
     {% if gear_items.size > 0 %}
       <ul class="nav__list">
-        <li class="nav__heading">Gear Collection</li>
+        <li class="nav__heading">Équipement</li>
         {% for gear in gear_items %}
           <li class="nav__item">
             <a href="{{ gear.url | relative_url }}" class="nav__link{% if page.url == gear.url %} active{% endif %}">
