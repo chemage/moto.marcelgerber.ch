@@ -1,7 +1,7 @@
 ---
 title: "Pantalons Pharao"
 collection: gear
-price: CHF 40.-
+price: CHF 20.-
 size: M (48-50)
 image: /assets/images/gear/pantalons-pharao-01.jpg
 layout: single

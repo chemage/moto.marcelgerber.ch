@@ -1,7 +1,7 @@
 ---
 title: "Jeans Spirit Motors"
 collection: gear
-price: CHF 30.-
+price: CHF 20.-
 size: M (48-50)
 image: /assets/images/gear/pantalons-jeans-01.jpg
 layout: single
